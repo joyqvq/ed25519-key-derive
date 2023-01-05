@@ -1,4 +1,4 @@
-// A clone of ed25519-dalek-bip32 without fail on the index is normal #L95-L97. 
+// A clone of ed25519-dalek-bip32 without fail on the index is normal #L95-L97.
 
 //! A simple BIP32 implementation for ed25519 public keys. Although there exists [another very good
 //! library that does this](https://docs.rs/ed25519-bip32), this library preserves 32 byte secret
